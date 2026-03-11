@@ -225,7 +225,3 @@ data/
 # data/raw/*.csv
 # data/processed/*.csv
 
-# Ignore saved models and scalers
-models/
-# (Similarly, if you want the models folder but not the files:)
-# models/*.pkl
