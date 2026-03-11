@@ -9,7 +9,7 @@ This project demonstrates a complete AI engineering workflow: from raw data prep
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## 🚀 Live Demo
-You can try the web application here: **[Link to your Streamlit App once deployed]**
+You can try the web application here: **loan-approval-api-s0bourbe.streamlit.app**
 
 ## 📋 Project Overview
 Financial institutions need reliable ways to assess credit risk. This project uses the [Credit Risk Dataset from Kaggle](https://www.kaggle.com/datasets/laotse/credit-risk-dataset) to build a predictive model.
